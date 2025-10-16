@@ -1949,7 +1949,7 @@ body {
     height: 20vw;
     top: 24vw;
     left: 40vw;
-    background-image: url("star_fish.png");
+    background-image: url("star_fish.PNG");
     background-size: cover;
     background-repeat: no-repeat;
     z-index:8;
@@ -1964,7 +1964,7 @@ body {
   height: 12vw;
   left: 28vw; /* place it to the right of the main image */
   top: 35vw;
-  background-image: url("speech2.png");
+  background-image: url("speech2.PNG");
   font-size: 20px;
   background-size: cover;
   background-repeat: no-repeat;
